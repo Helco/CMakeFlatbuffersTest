@@ -1,0 +1,4 @@
+table Root {
+  dummy: int8;
+  dummy2: int8;
+}
